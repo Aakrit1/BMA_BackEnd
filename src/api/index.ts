@@ -1,4 +1,5 @@
 import { Router } from 'express';
+import loginRouter from './login/route';
 import usersRouter from './users/route';
 
 export default (): Router => {
@@ -6,6 +7,7 @@ export default (): Router => {
   app.use('/test', (req, res) => {
     res.send("Hello World")
   })
+  app.use('/login', loginRouter)
   app.use('/user', usersRouter)
   return app;
 };
