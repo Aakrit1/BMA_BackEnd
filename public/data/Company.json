@@ -24,7 +24,22 @@
         "name": "Taj",
         "offers": [
             "OII567",
-            "OIJ890"
+            "OIJ890",
+            "OIJ433"
+        ]
+    },
+    {
+        "companyId": "COMP32119",
+        "name": "KFC",
+        "offers": [
+            "OIJ823"
+        ]
+    },
+    {
+        "companyId": "COMP39145",
+        "name": "McDonald's",
+        "offers": [
+            "OIJ943"
         ]
     }
 ]

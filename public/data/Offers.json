@@ -108,5 +108,38 @@
       "latitude": 34.0522,
       "longitude": -118.2437
     }
+  },
+  {
+    "offerId": "OIJ823",
+    "title": "KFC",
+    "description": "Get $30 off on your purchase of $150 or more",
+    "discount": "30",
+    "status": "active",
+    "location": {
+      "latitude": 12.834211813917632,
+      "longitude": 80.047630703767
+    }
+  },
+  {
+    "offerId": "OIJ943",
+    "title": "McDonald's",
+    "description": "Get a free aloo ticki burger",
+    "discount": "52",
+    "status": "active",
+    "location": {
+      "latitude": 12.802178155746551, 
+      "longitude": 80.0254512986866
+    }
+  },
+  {
+    "offerId": "OIJ433",
+    "title": "Welcomhotel By ITC Hotels",
+    "description": "Get $15 off your first order of $50 or more",
+    "discount": "95",
+    "status": "active",
+    "location": {
+      "latitude": 12.764959152083792, 
+      "longitude": 80.00575225315868
+    }
   }
 ]
