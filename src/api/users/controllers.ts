@@ -19,10 +19,9 @@ export async function getAllUsers() {
     }
 }
 
-export async function getUser(userId: String) {
+export async function getUser(userId) {
     try {
         const db = await database();
-        console.log(userId)
         const data = await db.collection("User").aggregate([
             {
                 $match: { userId }
@@ -97,7 +96,7 @@ export async function getUser(userId: String) {
                     accounts: { $first: "$accounts" }
                 }
             }
-        ]).toArray()
+        ]).toArray();
         data[0].availableBalance = 0
         data[0].accounts.forEach(account => {
             account.availableBalance = 0
