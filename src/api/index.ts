@@ -1,5 +1,7 @@
 import { Router } from 'express';
+import locationRouter from './location/route';
 import loginRouter from './login/route';
+import offersRouter from './offers/route';
 import usersRouter from './users/route';
 
 export default (): Router => {
@@ -9,5 +11,7 @@ export default (): Router => {
   })
   app.use('/login', loginRouter)
   app.use('/user', usersRouter)
+  app.use('/location', locationRouter)
+  app.use('/offers', offersRouter)
   return app;
 };
