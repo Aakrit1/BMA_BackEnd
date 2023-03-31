@@ -1,0 +1,162 @@
+[
+    {
+        "userId": "UID12423",
+        "name": "Vashist Agarwalla",
+        "email": "vashist1202@gmail.com",
+        "contact": "+917299773162",
+        "password": "admin",
+        "points": 50,
+        "multiplier": 5,
+        "accounts": [
+            "S12345678",
+            "C98765432"
+        ],
+        "location": {
+            "latitude": 12.823689,
+            "longitude": 80.042268
+        },
+        "offers": [
+            "OIA123",
+            "OID012"
+        ],
+        "rewards": [
+            {
+                "used": true,
+                "rewardId": "RED012"
+            },
+            {
+                "used": false,
+                "rewardId": "REJ890"
+            }
+        ],
+        "wishlist": []
+    },
+    {
+        "userId": "UID12431",
+        "name": "Utsav Doshi",
+        "email": "ud9390@srmist.edu.in",
+        "contact": "+918104633986",
+        "password": "admin",
+        "points": 50,
+        "multiplier": 5,
+        "accounts": [
+            "S24681357",
+            "C13579024"
+        ],
+        "location": {
+            "latitude": 12.823689,
+            "longitude": 80.042268
+        },
+        "offers": [
+            "OIA123",
+            "OID012"
+        ],
+        "rewards": [
+            {
+                "used": true,
+                "rewardId": "RED012"
+            },
+            {
+                "used": false,
+                "rewardId": "REJ890"
+            }
+        ],
+        "wishlist": []
+    },
+    {
+        "userId": "UID12438",
+        "name": "Kunjal Lal",
+        "email": "ud9390@srmist.edu.in",
+        "contact": "+918104633986",
+        "password": "admin",
+        "points": 50,
+        "multiplier": 5,
+        "accounts": [
+            "S86420973",
+            "C75395128"
+        ],
+        "location": {
+            "latitude": 12.823689,
+            "longitude": 80.042268
+        },
+        "offers": [
+            "OIA123",
+            "OID012"
+        ],
+        "rewards": [
+            {
+                "used": true,
+                "rewardId": "RED012"
+            },
+            {
+                "used": false,
+                "rewardId": "REJ890"
+            }
+        ],
+        "wishlist": []
+    },
+    {
+        "userId": "UID12444",
+        "name": "Neel Gajiwala",
+        "email": "ud9390@srmist.edu.in",
+        "contact": "+918104633986",
+        "password": "admin",
+        "points": 50,
+        "multiplier": 5,
+        "accounts": [
+            "C48092763",
+            "S36925814"
+        ],
+        "location": {
+            "latitude": 12.823689,
+            "longitude": 80.042268
+        },
+        "offers": [
+            "OIA123",
+            "OID012"
+        ],
+        "rewards": [
+            {
+                "used": true,
+                "rewardId": "RED012"
+            },
+            {
+                "used": false,
+                "rewardId": "REJ890"
+            }
+        ],
+        "wishlist": []
+    },
+    {
+        "userId": "UID12449",
+        "name": "Akriti Rawat",
+        "email": "ud9390@srmist.edu.in",
+        "contact": "+918104633986",
+        "password": "admin",
+        "points": 50,
+        "multiplier": 5,
+        "accounts": [
+            "S12312312",
+            "C98765432"
+        ],
+        "location": {
+            "latitude": 12.823689,
+            "longitude": 80.042268
+        },
+        "offers": [
+            "OIA123",
+            "OID012"
+        ],
+        "rewards": [
+            {
+                "used": true,
+                "rewardId": "RED012"
+            },
+            {
+                "used": false,
+                "rewardId": "REJ890"
+            }
+        ],
+        "wishlist": []
+    }
+]

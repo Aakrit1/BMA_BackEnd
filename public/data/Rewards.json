@@ -1,0 +1,72 @@
+[
+    {
+        "rewardId": "REA123",
+        "title": "Acme Inc.",
+        "description": "Get $10 off your first purchase with us",
+        "discount": "10",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REB456",
+        "title": "Green Valley Foods",
+        "description": "Get $5 off your next order of $50 or more",
+        "discount": "5",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REC789",
+        "title": "Globe Travels",
+        "description": "Get $100 off on your next international flight booking",
+        "discount": "100",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "RED012",
+        "title": "Health Plus",
+        "description": "Get $15 off your first order of $50 or more",
+        "discount": "15",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REE345",
+        "title": "Sports Central",
+        "description": "Get $20 off your purchase of $100 or more",
+        "discount": "20",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REF678",
+        "title": "Nature's Basket",
+        "description": "Get $10 off on your next grocery order",
+        "discount": "10",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REG901",
+        "title": "Blue Sky Hotels",
+        "description": "Get $50 off on your next hotel booking",
+        "discount": "50",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REH234",
+        "title": "Fashion Frenzy",
+        "description": "Get $25 off on your first purchase of $75 or more",
+        "discount": "25",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REI567",
+        "title": "The Coffee House",
+        "description": "Get $5 off on your next coffee order",
+        "discount": "5",
+        "validity": 1689942600
+    },
+    {
+        "rewardId": "REJ890",
+        "title": "Kids Emporium",
+        "description": "Get $30 off on your purchase of $150 or more",
+        "discount": "30",
+        "validity": 1689942600
+    }
+]

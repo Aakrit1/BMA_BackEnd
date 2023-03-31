@@ -1,0 +1,112 @@
+[
+  {
+    "offerId": "OIA123",
+    "title": "Acme Inc.",
+    "description": "Get $10 off your first purchase with us",
+    "discount": "10",
+    "status": "active",
+    "location": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    }
+  },
+  {
+    "offerId": "OIB456",
+    "title": "Green Valley Foods",
+    "description": "Get $5 off your next order of $50 or more",
+    "discount": "5",
+    "status": "active",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    }
+  },
+  {
+    "offerId": "OIC789",
+    "title": "Globe Travels",
+    "description": "Get $100 off on your next international flight booking",
+    "discount": "100",
+    "status": "active",
+    "location": {
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    }
+  },
+  {
+    "offerId": "OID012",
+    "title": "Health Plus",
+    "description": "Get $15 off your first order of $50 or more",
+    "discount": "15",
+    "status": "active",
+    "location": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    }
+  },
+  {
+    "offerId": "OIE345",
+    "title": "Sports Central",
+    "description": "Get $20 off your purchase of $100 or more",
+    "discount": "20",
+    "status": "active",
+    "location": {
+      "latitude": 37.3382,
+      "longitude": -121.8863
+    }
+  },
+  {
+    "offerId": "OIF678",
+    "title": "Nature's Basket",
+    "description": "Get $10 off on your next grocery order",
+    "discount": "10",
+    "status": "active",
+    "location": {
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    }
+  },
+  {
+    "offerId": "OIG901",
+    "title": "Blue Sky Hotels",
+    "description": "Get $50 off on your next hotel booking",
+    "discount": "50",
+    "status": "active",
+    "location": {
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    }
+  },
+  {
+    "offerId": "OIH234",
+    "title": "Fashion Frenzy",
+    "description": "Get $25 off on your first purchase of $75 or more",
+    "discount": "25",
+    "status": "active",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    }
+  },
+  {
+    "offerId": "OII567",
+    "title": "The Coffee House",
+    "description": "Get $5 off on your next coffee order",
+    "discount": "5",
+    "status": "active",
+    "location": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    }
+  },
+  {
+    "offerId": "OIJ890",
+    "title": "Kids Emporium",
+    "description": "Get $30 off on your purchase of $150 or more",
+    "discount": "30",
+    "status": "active",
+    "location": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    }
+  }
+]

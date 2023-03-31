@@ -1,0 +1,129 @@
+[
+    {
+        "accountId": "S12345678",
+        "type": "savings",
+        "transaction": [
+            "TXN1231",
+            "TXN2342",
+            "TXN3452"
+        ],
+        "userId": "UID12423",
+        "cardNo": "1234 5678 9012 3456",
+        "nickName": "My Savings",
+        "expDate": 1676256000
+    },
+    {
+        "accountId": "C98765432",
+        "type": "checking",
+        "transaction": [
+            "TXN6782",
+            "TXN5674",
+            "TXN4563"
+        ],
+        "userId": "UID12423",
+        "cardNo": "5555 6666 7777 8888",
+        "nickName": "My Checking",
+        "expDate": 1707798400
+    },
+    {
+        "accountId": "S24681357",
+        "type": "savings",
+        "transaction": [
+            "TXN7389",
+            "TXN8490",
+            "TXN92301"
+        ],
+        "userId": "UID12431",
+        "cardNo": "9999 8888 7777 6666",
+        "nickName": "My Savings",
+        "expDate": 1743225600
+    },
+    {
+        "accountId": "C13579024",
+        "type": "checking",
+        "transaction": [
+            "TXN0132",
+            "TXN1223",
+            "TXN2341"
+        ],
+        "userId": "UID12431",
+        "cardNo": "4321 0987 6543 2109",
+        "nickName": "My Checking",
+        "expDate": 1778764800
+    },
+    {
+        "accountId": "S86420973",
+        "type": "savings",
+        "transaction": [
+            "TXN3445",
+            "TXN4506"
+        ],
+        "userId": "UID12438",
+        "cardNo": "1111 2222 3333 4444",
+        "nickName": "My Savings",
+        "expDate": 1814304000
+    },
+    {
+        "accountId": "C75395128",
+        "type": "checking",
+        "transaction": [
+            "TXN678",
+            "TXN789",
+            "TXN890"
+        ],
+        "userId": "UID12438",
+        "cardNo": "2468 1357 9876 5432",
+        "nickName": "My Checking",
+        "expDate": 1849843200
+    },
+    {
+        "accountId": "S36925814",
+        "type": "savings",
+        "transaction": [
+            "TXN901",
+            "TXN012",
+            "TXN123"
+        ],
+        "userId": "UID12444",
+        "cardNo": "7777 8888 9999 0000",
+        "nickName": "My Savings",
+        "expDate": 1885382400
+    },
+    {
+        "accountId": "C48092763",
+        "type": "checking",
+        "transaction": [
+            "TXN234",
+            "TXN345",
+            "TXN456"
+        ],
+        "userId": "UID12444",
+        "cardNo": "5432 1098 7654 3210",
+        "nickName": "My Checking",
+        "expDate": 1920921600
+    },
+    {
+        "accountId": "S12312312",
+        "type": "savings",
+        "transaction": [
+            "TXN567",
+            "TXN678",
+            "TXN789"
+        ],
+        "userId": "UID12449",
+        "cardNo": "8888 7777 6666 5555",
+        "nickName": "My Savings",
+        "expDate": 1956460800
+    },
+    {
+        "accountId": "C98765431",
+        "type": "checking",
+        "transaction": [
+            "TXN890"
+        ],
+        "userId": "UID12449",
+        "cardNo": "0123 4567 8901 2345",
+        "nickName": "My Checking",
+        "expDate": 1992000000
+    }
+]

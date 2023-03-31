@@ -1,0 +1,30 @@
+[
+    {
+        "companyId": "COMP12345",
+        "name": "Reliance",
+        "offers": [
+            "OIA123",
+            "OIB456",
+            "OIC789",
+            "OID012",
+            "OIE345"
+        ]
+    },
+    {
+        "companyId": "COMP21345",
+        "name": "Nilgiris",
+        "offers": [
+            "OIF678",
+            "OIG901",
+            "OIH234"
+        ]
+    },
+    {
+        "companyId": "COMP32145",
+        "name": "Taj",
+        "offers": [
+            "OII567",
+            "OIJ890"
+        ]
+    }
+]

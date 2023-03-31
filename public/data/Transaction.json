@@ -1,0 +1,199 @@
+[
+    {
+        "transactionId": "TXN1231",
+        "accountId": "S12345678",
+        "timeStamp": 1649491200,
+        "changeInBalance": -749,
+        "description": "Grocery shopping at Safeway"
+    },
+    {
+        "transactionId": "TXN2342",
+        "accountId": "S12345678",
+        "timeStamp": 1652179200,
+        "changeInBalance": -47,
+        "description": "Coffee at Starbucks"
+    },
+    {
+        "transactionId": "TXN3452",
+        "accountId": "S12345678",
+        "timeStamp": 1654761600,
+        "changeInBalance": -1023,
+        "description": "Car payment"
+    },
+    {
+        "transactionId": "TXN4563",
+        "accountId": "C98765432",
+        "timeStamp": 1657344000,
+        "changeInBalance": 2345,
+        "description": "Paycheck from employer"
+    },
+    {
+        "transactionId": "TXN5674",
+        "accountId": "C98765432",
+        "timeStamp": 1660022400,
+        "changeInBalance": -82,
+        "description": "Lunch at Subway"
+    },
+    {
+        "transactionId": "TXN6782",
+        "accountId": "C98765432",
+        "timeStamp": 1662614400,
+        "changeInBalance": -223,
+        "description": "Gas at Chevron"
+    },
+    {
+        "transactionId": "TXN7389",
+        "accountId": "UID12431",
+        "timeStamp": 1665292800,
+        "changeInBalance": -65,
+        "description": "Snacks at convenience store"
+    },
+    {
+        "transactionId": "TXN8490",
+        "accountId": "UID12431",
+        "timeStamp": 1667884800,
+        "changeInBalance": -139,
+        "description": "Dinner at Olive Garden"
+    },
+    {
+        "transactionId": "TXN92301",
+        "accountId": "UID12431",
+        "timeStamp": 1670563200,
+        "changeInBalance": -549,
+        "description": "Amazon purchase"
+    },
+    {
+        "transactionId": "TXN0132",
+        "accountId": "C13579024",
+        "timeStamp": 1673155200,
+        "changeInBalance": 2837,
+        "description": "Bonus from employer"
+    },
+    {
+        "transactionId": "TXN1223",
+        "accountId": "C13579024",
+        "timeStamp": 1675833600,
+        "changeInBalance": -72,
+        "description": "Breakfast at McDonald's"
+    },
+    {
+        "transactionId": "TXN2341",
+        "accountId": "C13579024",
+        "timeStamp": 1678425600,
+        "changeInBalance": -189,
+        "description": "Movie tickets"
+    },
+    {
+        "transactionId": "TXN3445",
+        "accountId": "S86420973",
+        "timeStamp": 1681104000,
+        "changeInBalance": -345,
+        "description": "Car insurance payment"
+    },
+    {
+        "transactionId": "TXN4506",
+        "accountId": "S86420973",
+        "timeStamp": 1683696000,
+        "changeInBalance": 1746,
+        "description": "Freelance work payment"
+    },
+    {
+        "transactionId": "TXN678",
+        "accountId": "C75395128",
+        "timeStamp": 1688966400,
+        "changeInBalance": -423,
+        "description": "Furniture purchase"
+        },
+        {
+        "transactionId": "TXN789",
+        "accountId": "C75395128",
+        "timeStamp": 1691644800,
+        "changeInBalance": -90,
+        "description": "Dinner at Panda Express"
+        },
+        {
+        "transactionId": "TXN890",
+        "accountId": "C75395128",
+        "timeStamp": 1694236800,
+        "changeInBalance": -1245,
+        "description": "Rent payment"
+        },
+        {
+        "transactionId": "TXN901",
+        "accountId": "acc234",
+        "timeStamp": 1696915200,
+        "changeInBalance": 873,
+        "description": "Stock sale"
+        },
+        {
+        "transactionId": "TXN012",
+        "accountId": "acc345",
+        "timeStamp": 1699507200,
+        "changeInBalance": -27,
+        "description": "Coffee at Dunkin Donuts"
+        },
+        {
+        "transactionId": "TXN123",
+        "accountId": "acc456",
+        "timeStamp": 1702185600,
+        "changeInBalance": -94,
+        "description": "Lunch at Chipotle"
+        },
+        {
+        "transactionId": "TXN234",
+        "accountId": "acc567",
+        "timeStamp": 1704777600,
+        "changeInBalance": -678,
+        "description": "Vacation rental"
+        },
+        {
+        "transactionId": "TXN345",
+        "accountId": "acc678",
+        "timeStamp": 1707456000,
+        "changeInBalance": 2365,
+        "description": "Salary payment"
+        },
+        {
+        "transactionId": "TXN456",
+        "accountId": "acc789",
+        "timeStamp": 1710048000,
+        "changeInBalance": -129,
+        "description": "Dinner at Red Lobster"
+        },
+        {
+        "transactionId": "TXN567",
+        "accountId": "acc890",
+        "timeStamp": 1712726400,
+        "changeInBalance": -67,
+        "description": "Snacks at gas station"
+        },
+        {
+        "transactionId": "TXN678",
+        "accountId": "acc901",
+        "timeStamp": 1715318400,
+        "changeInBalance": -429,
+        "description": "Internet bill payment"
+        },
+        {
+        "transactionId": "TXN789",
+        "accountId": "acc012",
+        "timeStamp": 1717996800,
+        "changeInBalance": -157,
+        "description": "Lunch at Panera Bread"
+        },
+        {
+        "transactionId": "TXN890",
+        "accountId": "acc123",
+        "timeStamp": 1720588800,
+        "changeInBalance": -956,
+        "description": "Student loan payment"
+        },
+        {
+        "transactionId": "TXN901",
+        "accountId": "acc234",
+        "timeStamp": 1723267200,
+        "changeInBalance": 354,
+        "description": "Gift from friend"
+        }
+        
+]
